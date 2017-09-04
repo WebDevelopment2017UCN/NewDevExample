@@ -11,6 +11,7 @@ namespace NogetIntegelligent
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            //New change comment
             Console.Read();
         }
     }
