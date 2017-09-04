@@ -1,0 +1,6 @@
+c:\users\x220\documents\visual studio 2017\Projects\NogetIntegelligent\NogetIntegelligent\bin\Debug\NogetIntegelligent.exe.config
+c:\users\x220\documents\visual studio 2017\Projects\NogetIntegelligent\NogetIntegelligent\bin\Debug\NogetIntegelligent.exe
+c:\users\x220\documents\visual studio 2017\Projects\NogetIntegelligent\NogetIntegelligent\bin\Debug\NogetIntegelligent.pdb
+c:\users\x220\documents\visual studio 2017\Projects\NogetIntegelligent\NogetIntegelligent\obj\Debug\NogetIntegelligent.csprojResolveAssemblyReference.cache
+c:\users\x220\documents\visual studio 2017\Projects\NogetIntegelligent\NogetIntegelligent\obj\Debug\NogetIntegelligent.exe
+c:\users\x220\documents\visual studio 2017\Projects\NogetIntegelligent\NogetIntegelligent\obj\Debug\NogetIntegelligent.pdb
